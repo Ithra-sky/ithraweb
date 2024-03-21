@@ -3259,7 +3259,7 @@ textarea.form-control.is-invalid {
 }
 
 .btn {
-    --bs-btn-padding-x: 2rem;
+    --bs-btn-padding-x: 1rem;
     --bs-btn-padding-y: 0.6rem;
     --bs-btn-font-family: ;
     --bs-btn-font-size: 1rem;
@@ -8711,7 +8711,7 @@ fieldset:disabled .btn {
 }
 
 .me-2 {
-    margin-right: .5rem !important
+    margin-right: .1rem !important
 }
 
 .me-3 {
