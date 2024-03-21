@@ -50,7 +50,7 @@
     --bs-white-rgb: 255, 255, 255;
     --bs-black-rgb: 0, 0, 0;
     --bs-body-color-rgb: 255, 255, 255;
-    --bs-body-bg-rgb: 45, 44, 56;
+    --bs-body-bg-rgb: 235, 246, 255;
     --bs-font-sans-serif: "IBM Plex Sans Arabic", sans-serif;
     --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
