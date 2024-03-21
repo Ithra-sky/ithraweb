@@ -49,7 +49,7 @@
     --bs-dark-rgb: 78, 175, 255;
     --bs-white-rgb: 255, 255, 255;
     --bs-black-rgb: 0, 0, 0;
-    --bs-body-color-rgb: 255, 255, 255;
+    --bs-body-color-rgb: 33, 37, 41;
     --bs-body-bg-rgb: 235, 246, 255;
     --bs-font-sans-serif: "IBM Plex Sans Arabic", sans-serif;
     --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -58,7 +58,7 @@
     --bs-body-font-size: 1rem;
     --bs-body-font-weight: 400;
     --bs-body-line-height: 1.6;
-    --bs-body-color: #fff;
+    --bs-body-color: #212529;
     --bs-body-bg: #EBF6FF;
     --bs-border-width: 1px;
     --bs-border-style: solid;
