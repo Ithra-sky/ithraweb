@@ -350,7 +350,7 @@ caption {
     padding-top: .5rem;
     padding-bottom: .5rem;
     color: #b0bdd3;
-    text-align: left
+    text-align: right
 }
 
 th {
@@ -6396,7 +6396,7 @@ fieldset:disabled .btn {
     font-style: normal;
     font-weight: 400;
     line-height: 1.6;
-    text-align: left;
+    text-align: right;
     text-align: start;
     text-decoration: none;
     text-shadow: none;
@@ -6517,7 +6517,7 @@ fieldset:disabled .btn {
     font-style: normal;
     font-weight: 400;
     line-height: 1.6;
-    text-align: left;
+    text-align: right;
     text-align: start;
     text-decoration: none;
     text-shadow: none;
@@ -9067,7 +9067,7 @@ fieldset:disabled .btn {
 }
 
 .text-start {
-    text-align: left !important
+    text-align: right !important
 }
 
 .text-end {
@@ -10022,7 +10022,7 @@ fieldset:disabled .btn {
     }
 
     .text-sm-start {
-        text-align: left !important
+        text-align: right !important
     }
 
     .text-sm-end {
@@ -11326,7 +11326,7 @@ fieldset:disabled .btn {
     }
 
     .text-lg-start {
-        text-align: left !important
+        text-align: right !important
     }
 
     .text-lg-end {
@@ -11978,7 +11978,7 @@ fieldset:disabled .btn {
     }
 
     .text-xl-start {
-        text-align: left !important
+        text-align: right !important
     }
 
     .text-xl-end {
@@ -12630,7 +12630,7 @@ fieldset:disabled .btn {
     }
 
     .text-xxl-start {
-        text-align: left !important
+        text-align: right !important
     }
 
     .text-xxl-end {
