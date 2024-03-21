@@ -3772,7 +3772,7 @@ fieldset:disabled .btn {
     margin: 0;
     font-size: var(--bs-dropdown-font-size);
     color: var(--bs-dropdown-color);
-    text-align: left;
+    text-align: right;
     list-style: none;
     background-color: var(--bs-dropdown-bg);
     background-clip: padding-box;
@@ -5042,7 +5042,7 @@ fieldset:disabled .btn {
     padding: var(--bs-accordion-btn-padding-y) var(--bs-accordion-btn-padding-x);
     font-size: 1rem;
     color: var(--bs-accordion-btn-color);
-    text-align: left;
+    text-align: right;
     background-color: var(--bs-accordion-btn-bg);
     border: 0;
     border-radius: 0;
