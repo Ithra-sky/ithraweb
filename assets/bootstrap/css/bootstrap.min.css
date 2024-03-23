@@ -13022,6 +13022,10 @@ footer ul li a:hover {
     box-shadow: inset 0 0.5em 1.5em rgba(0, 0, 0, .1), inset 0 0.125em 0.5em rgba(0, 0, 0, .15);
 }
 
+span.align-items-center.badge.d-flex.p-3.rounded-pill.text-bg-primary:hover {
+    background-color: #f5b400 !important;
+}
+
 @media(min-width: 1200px) {
     .reflow-product-list.ref-cards .ref-products {
         --ref-products-per-row: 3 !important
