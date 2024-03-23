@@ -13026,6 +13026,19 @@ span.badge.d-flex.p-3.align-items-center.text-bg-primary.rounded-pill:hover {
     background: #f5b400 !important;
 }
 
+span.badge.d-flex.p-3.align-items-center.whatsapp.rounded-pill {
+    background: #25d366;
+}
+
+span.badge.d-flex.p-3.align-items-center.tiktok.y.rounded-pill {
+    background: #000;
+}
+
+span.badge.d-flex.p-3.align-items-center.snapchat.rounded-pill {
+    color: #000;
+    background: #f7f300;
+}
+
 @media(min-width: 1200px) {
     .reflow-product-list.ref-cards .ref-products {
         --ref-products-per-row: 3 !important
