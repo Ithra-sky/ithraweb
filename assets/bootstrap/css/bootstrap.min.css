@@ -279,7 +279,7 @@ a {
 }
 
 a:hover {
-    color: var(--bs-link-hover-color)
+    color: var(--bs-link-hover-color) !important
 }
 
 a:not([href]):not([class]),
@@ -12898,6 +12898,10 @@ img::-moz-selection {
 
 footer ul li a {
     color: #0070CC
+}
+
+footer ul li a:hover {
+    color: #F5B400
 }
 
 .reflow-product-list.ref-cards .ref-product .ref-product-data {
